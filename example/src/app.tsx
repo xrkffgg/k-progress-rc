@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import ReactDemo from '../../src'
+import ReactDemo from '../../src/index'
 
 const App = () => <ReactDemo />
 

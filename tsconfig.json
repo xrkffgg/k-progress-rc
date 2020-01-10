@@ -1,0 +1,13 @@
+/* tsconfig.json */
+{
+  "compilerOptions": {
+    "outDir": "./public/",
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react"
+  },
+  "files": [
+    "./src/index.tsx"
+  ]
+}
